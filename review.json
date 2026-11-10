@@ -1,0 +1,18 @@
+{
+  "znamka": 7,
+  "slabiny": [
+    "Hero na PC (1440) zůstal, jak byl: nahoře je pořád úzký pruh detailu kazetového stropu a pod ním bílá karta s textem. Tahle výtka opravená není. Oprava: přes celou šířku dát jednu velkou fotku hotového interiéru, třeba podkroví se střešními okny nebo halu se světelnými pásy, a nadpis s tlačítky položit přes ni nebo vedle ní. Na mobilu má fotka zabrat aspoň polovinu první obrazovky, ne jen pruh nad kartou.",
+    "Galerie „Z našich realizácií“ a fotky v kartách „Tri oblasti“: na PC jsou v galerii pořád jen 4 malé náhledy v jedné řadě. Ve všech fotkách je dál zřetelný vodoznak www.sadrokarton.sk, v galerii, v kartách oborů i na mobilu přes celou šířku. Oprava: galerii postavit jako mozaiku přes celou šířku (1 velká a 3–4 menší, celkem 8–12 fotek). Vodoznak u všech fotek odstranit ořezem nebo použít originály bez vodoznaku, hlavně u fotek, které jsou na mobilu přes celou šířku.",
+    "Logo v mobilní hlavičce je podle QA pořád zvětšené 1,36× (205 px nativně, 279 px vykresleno) a na 390 px je neostré. Navíc nahoře naráží na okraj. Oprava: logo vložit jako SVG nebo PNG ve dvojnásobném rozlišení (aspoň 410 px), na mobilu mu dát max-width 170 px a nahoře doplnit odsazení, aby bylo celé a ostré."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Karty „Tri oblasti, jeden dodávateľ“ už mají nahoře fotky jednotlivých oborů a čísla 01/02/03 zmizela. Tahle výtka je opravená.",
+    "Nadpisy i text jsou teď v Barlow místo system-ui a háčky ľ, ť, ô, ä se kreslí správně. Hierarchie je čistá.",
+    "Samostatný modrý pás výhod je zrušený a mobilní hlavička s tlačítkem KONTAKT funguje. Nic nepřetéká na žádné ze 6 šířek.",
+    "Brand drží: modrá z loga LEMARCK, logo vlevo a reálné reference rozdělené podle typu objektu na modré ploše.",
+    "Konverze je jasná: v hero je tlačítko „Požiadať o ponuku“ a telefon, v kontaktu adresa, otevírací doba, IČO a formulář."
+  ],
+  "verdikt": "Karty oborů a písmo jsou opravené a pás výhod je pryč. Hlavní obrazová slabina ale zůstala: malý pruh fotky v hero, malá galerie a všude vodoznak, a logo na mobilu je pořád neostré. Známka zůstává 7, verdikt opravit.",
+  "_hash": "963e3b34641ea38b46162199f21c0ede0a52cc6e"
+}

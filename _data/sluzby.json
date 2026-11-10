@@ -1,0 +1,36 @@
+[
+  {
+    "c": "01",
+    "nazev": "Sadrokartónové systémy",
+    "popis": "Priečky, predsteny, podhľady, podkrovia, suchá omietka a atypické riešenia pre moderný interiér. Rýchla, čistá výstavba bez „mokrých“ procesov.",
+    "tagy": [
+      "Priečky",
+      "Predsteny",
+      "Podhľady",
+      "Podkrovie",
+      "Suchá omietka"
+    ]
+  },
+  {
+    "c": "02",
+    "nazev": "Kazetové stropy",
+    "popis": "Rozoberateľné závesné podhľady, ktoré spĺňajú architektonické, hygienické, požiarne aj akustické požiadavky. Minerálne, mriežkové aj kovové kazety.",
+    "tagy": [
+      "Minerálne",
+      "Mriežkové",
+      "Kovové",
+      "Akustické"
+    ]
+  },
+  {
+    "c": "03",
+    "nazev": "Tepelné izolácie",
+    "popis": "Izolácie ISOVER pre šikmé strechy, podhľady a podkrovia, priečky, obvodové steny aj podlahy. Tepelná, akustická a požiarna ochrana.",
+    "tagy": [
+      "Strechy",
+      "Podkrovie",
+      "Priečky",
+      "Podlahy"
+    ]
+  }
+]

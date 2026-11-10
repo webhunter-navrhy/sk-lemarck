@@ -1,0 +1,62 @@
+{
+  "slug": "sk-lemarck",
+  "nazev": "LEMARCK Slovakia s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/sk-lemarck/",
+  "base": "/sk-lemarck/",
+  "lang": "sk",
+  "popis": "Dodávka a montáž sadrokartónových systémov, kazetových podhľadov a tepelných izolácií po celom Slovensku. Sklad a predaj v Nových Zámkoch.",
+  "navrh": true,
+  "domena": "sadrokarton.sk",
+  "og_image": "strop-perforovany.jpg",
+  "logo": "logo.png",
+  "theme_color": "#3049ac",
+  "typ": "LocalBusiness",
+  "ico": "35920459",
+  "kontakt": {
+    "email": "info@sadrokarton.sk",
+    "telefon": "+421 905 272 672",
+    "adresa": {
+      "ulice": "Viničná 1",
+      "psc": "940 01",
+      "mesto": "Nové Zámky",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [
+    {
+      "dni": "Po–Pi",
+      "od": "07:00",
+      "do": "16:00"
+    },
+    {
+      "dni": "So",
+      "od": "08:00",
+      "do": "11:30"
+    }
+  ],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu LEMARCK"
+  },
+  "nav": [
+    {
+      "text": "Čo robíme",
+      "href": "#ponuka"
+    },
+    {
+      "text": "Referencie",
+      "href": "#referencie"
+    },
+    {
+      "text": "Galéria",
+      "href": "#galeria"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

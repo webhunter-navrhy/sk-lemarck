@@ -1,0 +1,32 @@
+{
+  "skupiny": [
+    {
+      "nazev": "Predajne",
+      "polozky": [
+        "New Yorker – OC Mlyny, Nitra",
+        "New Yorker – OC Promenáda, Nitra",
+        "New Yorker – Galéria Tesco, Bratislava",
+        "Papierníctvo Mira Office, Nové Zámky"
+      ]
+    },
+    {
+      "nazev": "Administratívne a verejné budovy",
+      "polozky": [
+        "STU Bratislava FCHPT – kazetové podhľady",
+        "JES – Bajkalská 19B, Bratislava Ružinov",
+        "Administratívna budova QUICKTRANS, Nové Zámky",
+        "Poliklinika Šurany"
+      ]
+    },
+    {
+      "nazev": "Bytové domy a haly",
+      "polozky": [
+        "SOHO RESIDENCE I a II, Nové Zámky",
+        "Panorama City, Šurany",
+        "LiveGym, Nové Zámky",
+        "TPD Transport – hala, Nové Zámky",
+        "Depo ŽSR, Nové Zámky"
+      ]
+    }
+  ]
+}
